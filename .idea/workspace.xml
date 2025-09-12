@@ -5,7 +5,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="575a87cc-444a-4815-9c4e-4ae74506fe4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/0910/00_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0910/02_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0910/03_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0910/배열/02_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0910/배열/03_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0910/완전탐색/05_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0910/완전탐색/06_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0910/완전탐색/07_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0912/BAEK_1937.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0912/BAEK_1937_DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0912/BAEK_2606.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/.idea/01_list.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/.idea/repeat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/.idea/02_list.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/.idea/03_list.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/.idea/04_list.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0811/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0811/.idea/06_string.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0811/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0811/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0811/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0811/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/.idea/0814.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/.idea/0817.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/.idea/0818.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/.idea/0819.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/.idea/0820.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0821/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0821/.idea/0821.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0821/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0821/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0821/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0821/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0828/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0828/.idea/0828.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0828/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0828/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0828/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0828/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +134,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.00_codetree.executor": "Run",
+    "Python.02_codetree.executor": "Run",
+    "Python.03_codetree.executor": "Run",
+    "Python.04_codetree.executor": "Debug",
+    "Python.05_codetree.executor": "Run",
+    "Python.06_codetree.executor": "Run",
+    "Python.07_codetree.executor": "Run",
     "Python.4_codetree.executor": "Run",
     "Python.5_codetree.executor": "Run",
     "Python.BAEK_1012.executor": "Run",
@@ -53,6 +149,8 @@
     "Python.BAEK_10817.executor": "Run",
     "Python.BAEK_11650.executor": "Run",
     "Python.BAEK_17478.executor": "Run",
+    "Python.BAEK_1937.executor": "Run",
+    "Python.BAEK_1937_DP.executor": "Run",
     "Python.BAEK_2163.executor": "Run",
     "Python.BAEK_22869.executor": "Debug",
     "Python.BAEK_2476.executor": "Run",
@@ -73,13 +171,14 @@
     "Python.swea_1231.executor": "Debug",
     "Python.swea_1240.executor": "Run",
     "Python.swea_21933.executor": "Run",
+    "Python.test.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.4_codetree">
-    <configuration name="4_codetree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BAEK_2606">
+    <configuration name="02_codetree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="09_SWEA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0909" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0910/배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0909/4_codetree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0910/배열/02_codetree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_codetree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_codetree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="09_SWEA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0909" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0910/배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0909/5_codetree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0910/배열/03_codetree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BAEK_10809" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BAEK_1937" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="09_SWEA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0908" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0912" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0908/BAEK_10809.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0912/BAEK_1937.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BAEK_2798" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BAEK_1937_DP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="09_SWEA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0908" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0912" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0908/BAEK_2798.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0912/BAEK_1937_DP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_5203" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BAEK_2606" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="09_SWEA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0908" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0912" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0908/SWEA_5203.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0912/BAEK_2606.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4_codetree" />
-        <item itemvalue="Python.5_codetree" />
-        <item itemvalue="Python.BAEK_2798" />
-        <item itemvalue="Python.BAEK_10809" />
-        <item itemvalue="Python.SWEA_5203" />
+        <item itemvalue="Python.BAEK_2606" />
+        <item itemvalue="Python.BAEK_1937_DP" />
+        <item itemvalue="Python.BAEK_1937" />
+        <item itemvalue="Python.03_codetree" />
+        <item itemvalue="Python.02_codetree" />
       </list>
     </recent_temporary>
   </component>
@@ -300,6 +399,41 @@
           <url>file://$PROJECT_DIR$/0907/SWEA_11060.py</url>
           <line>31</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0910/00_codetree.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0910/00_codetree.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0910/02_codetree.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0910/02_codetree.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0910/완전탐색/06_codetree.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0910/완전탐색/06_codetree.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0910/완전탐색/07_codetree.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
