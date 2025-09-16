@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="575a87cc-444a-4815-9c4e-4ae74506fe4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0915/SWEA_17014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0915/codetree/02_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0914/BAEK_12865.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0915/BAEK_11399.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0916/SWEA_4012.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +65,7 @@
     "Python.BAEK_10974.executor": "Run",
     "Python.BAEK_11650.executor": "Run",
     "Python.BAEK_1182.executor": "Debug",
+    "Python.BAEK_12865.executor": "Run",
     "Python.BAEK_1520.executor": "Run",
     "Python.BAEK_15650.executor": "Run",
     "Python.BAEK_17478.executor": "Run",
@@ -78,8 +80,10 @@
     "Python.BAEK_2935.executor": "Run",
     "Python.BAEK_6603.executor": "Run",
     "Python.BAEK_9358.executor": "Run",
+    "Python.SWEA_.executor": "Run",
     "Python.SWEA_11060.executor": "Run",
     "Python.SWEA_1244.executor": "Run",
+    "Python.SWEA_1249.executor": "Run",
     "Python.SWEA_1486.executor": "Run",
     "Python.SWEA_16904.executor": "Run",
     "Python.SWEA_1861.executor": "Run",
@@ -106,7 +110,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.02_codetree">
+  <component name="RunManager" selected="Python.SWEA_">
     <configuration name="01_codetree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="09_SWEA" />
       <option name="ENV_FILES" value="" />
@@ -151,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_1861" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BAEK_12865" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="09_SWEA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0914/SWEA_1861.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0914/BAEK_12865.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_2819" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SWEA_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="09_SWEA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0914" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0916" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0914/SWEA_2819.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0916/SWEA_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SWEA_1249" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="09_SWEA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0914" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0916" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0914/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0916/SWEA_1249.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SWEA_" />
+        <item itemvalue="Python.SWEA_1249" />
+        <item itemvalue="Python.BAEK_12865" />
         <item itemvalue="Python.02_codetree" />
         <item itemvalue="Python.01_codetree" />
-        <item itemvalue="Python.SWEA_2819" />
-        <item itemvalue="Python.SWEA_1861" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
