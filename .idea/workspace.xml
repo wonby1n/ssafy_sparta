@@ -5,10 +5,354 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="575a87cc-444a-4815-9c4e-4ae74506fe4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0914/BAEK_12865.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0915/BAEK_11399.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0916/SWEA_4012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025.09/0917/BAEK_1926.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025.09/0917/codetree/01_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025.09/0917/codetree/02_codetree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2025.09/0917/codetree/03_codetree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/00_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/00_self_bubblesort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/00_self_gravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/00_self_minmax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/01_max_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/02_max_min_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/03_gravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/04_list1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/01_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/01_review1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/02_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/02_review1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/03_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/03_review1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0804/repeat/04_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/00_babygin_self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/00_babygin_self2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/00_counting_self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/00_counting_self2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/00_countingsort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/01_numcard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/02_babygin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/03_elebus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/04_minmax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/05_continueone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/06_soinsu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/07_flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/07_flatten2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/08_samsungbus2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/repeat/00_babygin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/repeat/00_counting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/repeat/00_counting2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/repeat/00_numcard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/repeat/07_flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0805/samsungbus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/00_delta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/00_homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/00_homework_hawon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/00_test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/00_test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/01_color.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/02_square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/03_bug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/04_balloon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/05_balloon2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/06_bug2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/07_sdoku.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0806/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0807/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0807/09_SWEA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0807/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0807/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0807/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0807/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/00_ladder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/00_ladder2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/00_memo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/00_snail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/00_squareinsquare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/00_sudoku.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/00_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/00_test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/00_universe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/01_ladder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/07_ladder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0811/00_ss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/00_monster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/00_omok.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/00_where.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/1979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/20230.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/20739.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0814/24446.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/10760.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/1223.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/12712.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/16268.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/16530.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/21425.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/22399.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/24396.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/24446.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/9490.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0817/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/00.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/11315.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/11315_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/1979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/2001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/20230.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/20396.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/20396_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/20397.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/20397_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/20739.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/22375.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/23795.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/9386.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0818/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/1204.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/1223.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/16118.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/16586.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/24735.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/25071.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/25071_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/부분집합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/부분집합_2차원.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0819/자리교환_순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/1288.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/21425.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/24446.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/24449.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0820/25071.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0821/10761.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0821/12741.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0821/1289.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0821/1860.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0822/16691.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0822/16691_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0822/subtree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0824/1231.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0824/16691.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0824/16691_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0824/16692.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0824/1954.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0824/1959.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0824/25071.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0825/10580.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0825/5789.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0825/6190.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0825/6190_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0825/9367.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0825/9489.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0828/16691_subtree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0828/16692_이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0830/16506_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0830/9012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0830/swea_1219.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0830/swea_1223.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0830/swea_1234.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0830/swea_16532.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0830/swea_2805.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0830/swea_3499.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0831/baek_1260.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0831/baek_1330.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0831/baek_1918.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0831/baek_1935.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0831/baek_2178.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0831/swea_1223.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0831/swea_1231.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0831/swea_16691.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0831/swea_16692.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0831/swea_21933.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0901/baek.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0901/swea_11315.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0901/swea_23795.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0901/swea_24446.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0903/BAEK_1012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0903/BAEK_11650.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0903/BAEK_2163.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0903/BAEK_2667.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0903/swea_1240.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/01_per.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/02_per.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/03_soonyeol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/2_duplicate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/3_per.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/4_dice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/5_trump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/BAEK_10768.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/BAEK_10817.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/BAEK_22869.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/BAEK_2935.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/BAEK_5543.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/SWEA_1244.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/SWEA_16883.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/SWEA_2530.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/SWEA_homework_4831.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/SWEA_homework_6190.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/SWEA_homework_9367.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/SWEA_homework_9386.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0904/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0907/SWEA_11060.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0907/SWEA_2480.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/00_self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/1_subset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/2_subset_binary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/4_combination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/6_problem_coin_swap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/BAEK_10156.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/BAEK_10809.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/BAEK_11060.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/BAEK_17478.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/BAEK_2476.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/BAEK_2798.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/SWEA_16903.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/SWEA_16904.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/SWEA_16904_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/SWEA_20396.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/SWEA_20397.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/SWEA_4837.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/SWEA_5203.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/babyjin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0908/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/1_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/2_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/3_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/4_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/5_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/BAEK_10757.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/BAEK_10886.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/BAEK_11653.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/BAEK_5355.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/SWEA_10580.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/SWEA_1953.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/SWEA_20551.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/SWEA_25428.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/SWEA_5656.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0909/SWEA_SELF_10580.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/00_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/01_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/02_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/03_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/BAEK_10039.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/BAEK_5086.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/BAEK_5717.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/배열/01_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/배열/02_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/배열/03_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/완전탐색/04_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/완전탐색/05_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/완전탐색/06_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/완전탐색/07_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/이진탐색/03_binary_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/이진탐색/SWEA_16943.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/이진탐색/self_binary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/정렬/00_merge_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/정렬/00_quick_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/정렬/01_merge_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/정렬/02_quick_sort_hoare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/정렬/SWEA_10580.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/정렬/SWEA_14229.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/정렬/SWEA_16942.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/정렬/SWEA_16944.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0910/정렬/self_merge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/01_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/02_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/03_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/04_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/05_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/06_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/07_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/08_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/09_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/10_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/1list/11_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/BAEK_10988.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/BAEK_2635.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/SWEA_16977.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/SWEA_16979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/SWEA_1961.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/SWEA_5789.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/SWEA_6019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/backtracking/SWEA_11446.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/live_code/01_binary_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/live_code/02_subset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/live_code/03_heap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/live_code/1.N-queen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0911/live_code/1.N-queen_adv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/BAEK_1937_BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/BAEK_1937_DP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/BAEK_2606_BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/SWEA_1486.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/SWEA_16977.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/SWEA_16979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/SWEA_1865.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/SWEA_1873.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/SWEA_2819.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/SWEA_2819_BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/live_coding/SWEA_1486.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/live_coding/SWEA_1862.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/live_coding/SWEA_1952.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/live_coding/SWEA_1952_DP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/live_coding/SWEA_2819_bfs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0912/live_coding/SWEA_2819_recur.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/BAEK_1182.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/BAEK_9358.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/SWEA_1486.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/SWEA_16886.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/SWEA_16903.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/SWEA_16904.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/SWEA_1861.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/SWEA_2819.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/SWEA_4837.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/SWEA_5203.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0913/SWEA_5203_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0914/BAEK_10974.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0914/BAEK_12865.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0914/BAEK_1520.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0914/BAEK_15650.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0914/BAEK_6603.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0914/SWEA_1861.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0914/SWEA_2817.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0914/SWEA_2819.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0914/SWEA_3234(미해결).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0914/SWEA_5215.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915(test)/01_aglo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915(test)/02_algo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/00_union-find.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/BAEK_10409.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/BAEK_11399.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/BAEK_30224.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/SWEA_17014.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/SWEA_17015.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/codetree/01_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/codetree/02_codetree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/live_code/01_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/live_code/02_dfs_basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/live_code/02_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/live_code/03_bfs_basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/live_code/04_union-find.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0915/live_code/SWEA_17015.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/01_prim_self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/01_prim_t.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/02_kruskal_self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/02_kruskal_t.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/03_dijkstra_self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/03_dijkstra_t.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/SWEA_1249.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/SWEA_17028_kruskal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/SWEA_17028_prim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/SWEA_17029.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/SWEA_17030.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/SWEA_4012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/live_code/01_prim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/live_code/02_kruskal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/live_code/03_dijkstra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/live_code/dijkstra_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0916/live_code/mst_input.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +413,7 @@
     "Python.BAEK_1520.executor": "Run",
     "Python.BAEK_15650.executor": "Run",
     "Python.BAEK_17478.executor": "Run",
+    "Python.BAEK_1926.executor": "Run",
     "Python.BAEK_1937.executor": "Run",
     "Python.BAEK_1937_DP.executor": "Run",
     "Python.BAEK_2163.executor": "Run",
@@ -110,29 +455,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.SWEA_">
-    <configuration name="01_codetree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="09_SWEA" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0915/codetree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0915/codetree/01_codetree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.BAEK_1926">
     <configuration name="02_codetree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="09_SWEA" />
       <option name="ENV_FILES" value="" />
@@ -169,6 +492,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0914/BAEK_12865.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BAEK_1926" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="09_SWEA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2025.09/0917" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2025.09/0917/BAEK_1926.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +568,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BAEK_1926" />
         <item itemvalue="Python.SWEA_" />
         <item itemvalue="Python.SWEA_1249" />
         <item itemvalue="Python.BAEK_12865" />
         <item itemvalue="Python.02_codetree" />
-        <item itemvalue="Python.01_codetree" />
       </list>
     </recent_temporary>
   </component>
